@@ -1,8 +1,8 @@
 # 👋 Hi, My name is Steven Wang. Welcome to my GitHub repo! 🤠
 - 🐟 I'm a marine biologist at UW / NOAA Fisheries
 - 🏄🏻‍♂️ I'm looking to transition into the software industry 👨‍💻
-- 🌱 I’m currently a junior studying *Application Development* at North Seattle College
 - 🐣 **I'm actively looking for an internship or junior level position in Software Engineering**
+- 🌱 I’m currently a junior studying *Application Development* at North Seattle College
 - 📫 You can find my contact and resume in my `resume` repository
 - 💞 I’m looking to collaborate on web application projects
 <!---
