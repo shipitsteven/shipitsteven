@@ -1,4 +1,4 @@
-# 👋 Hi, My name is Steven Wang. Welcome to my GitHub repo! 🤠
+# 👋 Hello, I'm Steven.
 - 🐟 I'm a marine biologist at UW / NOAA Fisheries
 - 🏄🏻‍♂️ I'm looking to transition into the software industry 👨‍💻
 - 🐣 **Actively looking for** a junior level position or internship in Software Engineering
