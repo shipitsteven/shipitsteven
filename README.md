@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Steven.
-- 📱 I'm currently learning Kotlin, Android Development, and AWS
+- 📱 I'm currently learning TypeScript and Electron.
 - 🐣 **Actively looking for** a junior level position or internship in Software Engineering
 - 📫 You can find my contact and resume in my `resume` repository
 
