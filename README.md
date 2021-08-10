@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Steven.
-- 📱 I'm currently learning TypeScript and Electron.
+- 📱 I'm currently learning TypeScript, Electron, IBM iSeries (AS/400), and RPG.
 - 🐣 **Actively looking for** a junior level position or internship in Software Engineering
 - 📫 You can find my contact and resume in my `resume` repository
 
