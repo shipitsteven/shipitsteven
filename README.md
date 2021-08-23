@@ -7,6 +7,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shipitsteven&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+<!-- [![Steven's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shipitsteven)](https://github.com/anuraghazra/github-readme-stats) -->
+
+
 ![page views](https://komarev.com/ghpvc/?username=shipitsteven&label=how+many+times+I've+been+here+to+get+to+my+own+repos)
 <!---
 shipitsteven/shipitsteven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
