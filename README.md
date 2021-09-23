@@ -10,7 +10,7 @@
 <!-- [![Steven's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shipitsteven&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-![page views](https://komarev.com/ghpvc/?username=shipitsteven&label=how+many+times+I've+been+here+to+get+to+my+own+repos)
+![page views](https://komarev.com/ghpvc/?username=shipitsteven&label=visitors)
 <!---
 shipitsteven/shipitsteven is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
