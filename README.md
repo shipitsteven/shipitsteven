@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Steven.
-- 📱 I'm currently learning TypeScript, Electron, IBM iSeries (AS/400), and RPG/RPGLE.
+- 📱 I'm currently learning React Native, AWS, Azure, IBM iSeries (AS/400), and RPG/RPGLE.
 - 🐣 **Actively looking for** a junior level position in Software Engineering
 <!-- - 📫 You can find my contact and resume in my `resume` repository -->
 
