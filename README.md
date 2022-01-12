@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Steven.
-- 📱 I'm currently learning React Native, AWS, Azure, IBM iSeries (AS/400), and RPG/RPGLE.
-- 🐣 **Actively looking for** a junior level position in Software Engineering
+- 📱 I'm currently taking a break from GitHub to take care of my newborn son, while studying for interviews.
+- 🐣 **Actively looking for** a junior level position in Software Engineering, you can contact me through LinkedIn.
 <!-- - 📫 You can find my contact and resume in my `resume` repository -->
 
 ![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=shipitsteven&show_icons=true&theme=tokyonight&count_private=true)
