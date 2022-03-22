@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Steven.
-- 📱 I'm currently taking a break from GitHub to take care of my newborn son, while studying for interviews.
+- 📱 I'm currently taking a break from GitHub to spend time with my son, while studying for interviews.
 - 🐣 **Actively looking for** a junior level position in Software Engineering, you can contact me through LinkedIn.
 <!-- - 📫 You can find my contact and resume in my `resume` repository -->
 
