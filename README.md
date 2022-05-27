@@ -1,6 +1,8 @@
 # 👋 Hello, I'm Steven.
-- 📱 I'm currently taking a break from GitHub to spend time with my son, while studying for interviews.
-- 🐣 **Actively looking for** a junior level position in Software Engineering, you can contact me through LinkedIn.
+- 📱 I'm a mobile developer working on Maps & Navigation for delivery drivers at Amazon.
+- 📦 My work aims to provide our drivers the best delivery experience, so you can get your package on time
+- 👈 You may reach me through my LinkedIn on the left
+
 <!-- - 📫 You can find my contact and resume in my `resume` repository -->
 
 ![Steven's GitHub stats](https://github-readme-stats.vercel.app/api?username=shipitsteven&show_icons=true&theme=tokyonight&count_private=true)
