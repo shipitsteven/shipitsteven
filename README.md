@@ -1,7 +1,7 @@
 # 👋 Hello, I'm Steven.
 - 📱 I'm a mobile developer working on Maps & Navigation for delivery drivers at Amazon.
 - 📦 My work aims to provide our drivers the best delivery experience, so you can get your package on time
-- 👈 You may reach me through my LinkedIn on the left
+- 👈 You may reach me via my [LinkedIn](https://www.linkedin.com/in/steven-s-wang/)
 
 <!-- - 📫 You can find my contact and resume in my `resume` repository -->
 
