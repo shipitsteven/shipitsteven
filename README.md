@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Steven.
-- 📱 I'm currently a developer working on Maps & Navigation for delivery drivers at Amazon.
+- 📱 I'm currently a developer working on Maps used by delivery drivers at Amazon.
 <!-- - 📦 My work aims to provide our drivers the best delivery experience, so you can get your package on time -->
 - 👈 You may reach me via my [LinkedIn](https://www.linkedin.com/in/steven-s-wang/)
 
